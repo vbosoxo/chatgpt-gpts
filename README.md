@@ -1,6 +1,6 @@
-# 【Chatgpt国内镜像网站合集】国内 ChatGPT-4、GPT-o3、deepseek、grok3中文版镜像网站整理（2025/06/29）
+# 【Chatgpt国内镜像网站合集】国内 ChatGPT-4、GPT-o3、deepseek、grok3中文版镜像网站整理（2025/07/06）
 
-> 更新时间：2025/06/29
+> 更新时间：2025/07/06
 
 为方便使用，我整理了一些国内可用的 ChatGPT 镜像网站
 
